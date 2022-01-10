@@ -1,0 +1,205 @@
+* {margin:0px; padding:0px;}
+
+/*body {background-color: brown; color: black;}*/
+section.section01 {
+    background-image: url('texture-black-spots-iu02l8x5ym4t50b1.jpg'); 
+    background-size:cover; 
+    width: 100%; 
+    height: 700px;
+}
+/*@media screen and (max-width:400px) {section.ex {height: 100%;}}*/
+.navbar-nav {
+    padding-right: 50px;
+}
+li.nav-item {
+    padding-right: 30px;
+}
+/*@media screen and (max-width:400px) {li.nav-item {font-size: 25px;}}*/
+div.intro {
+    margin-top: 150px;
+}
+/*@media (max-width:400px) {div.ea {margin-top: 100px;}}*/
+/*p.ex1 {text-align: center; font-weight: 500px; font-size: 50px; color: white;}
+@media screen and (max-width:400px) {p.ex1 {text-align: center; font-size: 80px; line-height:1.0;}}*/
+/*p.ex2 {text-align: center; color: white; margin-top: 70px;}
+@media (max-width:400px) {p.ex2 {font-size:30px; text-align:center; color: #888; font-weight:lighter; margin-top:100px;} }*/
+
+
+/*div.ep {margin-top: 50px;}*/
+img.aboutImage {
+    width:100%;
+}
+@media screen and (min-width:300px) and (max-width: 920px) {img.aboutImage {width: 100%;}}
+/*h1.ex3 {margin-top: 250px; color: #222; font-weight: lighter; font-size: 60px;}
+@media screen and (max-width:400px) {h1.ex3 {margin-top:150px; font-size: 60px;}}*/
+/*p.ex4 {color:#888;}
+@media screen and (max-width:400px) {p.ex4 {margin-top: 20px;}}*/
+
+
+
+/*h2.ex5 {
+    font-weight: bolder; 
+    font-size: 50px; 
+    padding:50px; margin: 0px; 
+    text-align: center;
+}*/
+/*@media screen and (max-width:400px) {h2.ex5 {font-size: 60px;}}*/
+/*@media screen and (max-width:400px) {section.as1 {margin-right:240px; margin-top: 60px;} }*/
+/*@media screen and (max-width:400px) {h3.h32 {text-align: right;}}*/
+/*div.row1 {float: right; padding-top: 60px;}
+@media screen and (max-width:400px){ div.row1 {text-align: center;} }
+@media screen and (max-width: 400px) { img.im3{ margin-top: 60px; margin-left: 30px;}}
+@media screen and (max-width:400px) {section.as2 {margin-left: 240px;} }
+div.row2 {float: left; padding-top: 60px;}*/
+
+/*h2.ex6 {text-align: center; padding:50px; margin-bottom:30px; font-weight: bold;}
+@media screen and (max-width:400px) {h2.ex6 {font-size: 40px;}}
+div.row3 {margin-left:80px;}
+@media screen and (max-width:400px) {div.row3{margin-left: 0px;}}*/
+img.appImage {
+    opacity: 0.5;
+}
+img.appImage:hover {opacity: 1; cursor: pointer;}
+
+/*.sec1 {background-color: black; color: white;}
+.h1a {text-align: center; padding: 40px;}
+@media screen and (max-width:400px) {h1.h1a {font-size:50px;}}*/
+div.team {
+    text-align: center;
+}
+/*@media screen and (max-width:400px) {p.p1 {font-size:15px;}}
+.p1 {font-weight: lighter; font-size: small;}*/
+
+.section06 {
+    background-color: rgb(3,169,244);
+}
+/*.division06 {
+    background: transparent; 
+    padding-top: 80px; 
+    padding-bottom: 60px;
+}*/
+.container06 {
+    background: inherit; 
+}
+.para06 {
+    text-align: center; 
+    color:black; 
+    margin-left: 20px; 
+    font-size: 40px;
+}
+/*.heading06 {
+    text-align: center; 
+    font-size: large;
+}*/
+
+/*.div3 {padding-top: 120px; padding-bottom: 120px;}*/
+/*.h31 {text-align: center; font-weight: bold;}
+@media screen and (max-width:400px) {h3.h31 {font-size:60px;}}*/
+
+div.division08 {
+    padding: 70px 50px;
+}
+/*h2.ep1 {
+    margin-left: 30px;
+}*/
+button.btn {
+    color: white; 
+    float:right; 
+    border:2px solid white; 
+    padding:10px 20px; 
+    margin-right:50px;
+}
+button.btn:hover {
+    background-color: turquoise; 
+    color: white; 
+    border: 2px solid turquoise;
+}
+
+/*.h40 {text-align: center; margin-top: 20px;}*/
+/*@media screen and (max-width:400px) {h4.h40 {font-size: 60px;}}*/
+.card {
+    height: 550px;
+}
+/*@media screen and (max-width:400px) {div.card {margin: 50px 30px;}}*/
+.section09 {
+    margin-bottom: 150px;
+}
+.custImage1 {
+    height: 70px; 
+    width: 70px; 
+    border: 2px solid #ddd; 
+    margin-top: 68px;
+}
+.custImage2 {
+    height: 70px; 
+    width: 70px; 
+    border: 2px solid #ddd; 
+    margin-top: 195px;
+}
+.custImage3 {
+    height: 70px; 
+    width: 70px; 
+    border: 2px solid #ddd; 
+    margin-top: 130px;
+}
+/*section.secp1 {font-size:x-small; font-weight:bold; margin-top: 10px;}
+@media screen and (max-width:400px) {p.secp1 {font-size: small;}}*/
+p.lineSize {
+    line-height: 2.0;
+}
+/*@media screen and (min-width:400px) {p.lineSize {line-height: 1.2;}}*/
+
+/*.es1 {background-color: #222;}*/
+/*.footer {background-color: #222;}-/
+/*@media screen and (max-width:400px) {footer.footer {font-size: 20px;}}*/
+/*@media screen and (max-width:400px) {h3.h301 {font-size: 50px; padding-top:20px;}}*/
+/*p.ap01 {font-size: small;}*/
+/*@media screen and (max-width:400px) {p.ap01 {font-size: 20px;}}*/
+ul.links {
+    list-style-type: none;
+}
+li.li1 {
+    display: inline-block; 
+    margin-right: 20px;
+}
+.contact {
+    color:turquoise;
+}
+.contact:hover {
+    color: turquoise; 
+    cursor: pointer;
+}
+.btn {
+    border-radius: 40px;
+}
+.iframe1 {
+    border: 3px solid skyblue;
+}
+/*@media screen and (min-width: 300px) and (max-width: 768px) {iframe.ifr1  {margin-left: 0px;}  }*/
+.divFoot {
+    text-align: center; 
+    color: white; 
+    background-color: black; 
+    padding-top: 20px; 
+    padding-bottom: 40px; 
+    font-size:small;
+}
+
+
+@media screen and (max-width:400px) {
+    li.nav-item {font-size: 20px;}
+    div.intro {margin-top: 100px;}
+    div.card {margin: 50px 30px;}
+    img.custImage1 {margin-top: -40px;}
+    img.custImage2 {margin-top: 160px;}
+    img.custImage3 {margin-top: 45px;}
+    p.lineSize {line-height: 1.8;}
+    h4.para03 {text-align:center !important;}
+}
+
+@media screen and (min-width:400px) and (max-width:920px) {
+    p.lineSize {line-height: 1.2;}
+    img.custImage1 {margin-top: -10px;}
+    img.custImage2 {margin-top: 160px;}
+    img.custImage3 {margin-top: 82px;}
+}
